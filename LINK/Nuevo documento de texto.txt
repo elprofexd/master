@@ -1,0 +1,2 @@
+https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf
+https://www.tic.udc.es/~fbellas/teaching/cpp/CPP.pdf

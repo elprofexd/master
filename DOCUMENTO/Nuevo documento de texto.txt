@@ -1,0 +1,2 @@
+los presentes programas en c++ nos sirves para revisar las calificaciones de los estudiante 
+y sacar el promedio de los estudiantes de un curso.
